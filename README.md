@@ -157,11 +157,8 @@ Tap the **+** button to navigate to the task creation screen where you can:
 
 ---
 
-## License
 
-This project is open source and available under the [MIT License](LICENSE).
-
----<img width="446" height="994" alt="main_view" src="https://github.com/user-attachments/assets/6665d325-1144-4d94-a01e-9c764c5ad58f" />
+<img width="446" height="994" alt="main_view" src="https://github.com/user-attachments/assets/6665d325-1144-4d94-a01e-9c764c5ad58f" />
 <img width="439" height="995" alt="add_task" src="https://github.com/user-attachments/assets/f4001af1-a28d-4a35-b4a8-9d1a6c81e702" />
 <img width="445" height="992" alt="progress" src="https://github.com/user-attachments/assets/be8f7b92-0bea-4e2d-9cf8-1be1a33acec0" />
 
